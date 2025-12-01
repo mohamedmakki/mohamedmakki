@@ -40,14 +40,9 @@
 **Backend:** Spring Boot  
 **Database:** MongoDB • PostgreSQL  
 **ML/AI:** TensorFlow • Scikit-learn • Pandas • NumPy
-
-## 📊 Most Used Languages
-<p align="center"> 
- <img src="github-readme-stats-iota-self-67.vercel.app/api/top-langs/?username=mohamedmakki&layout=compact" />
+<p align="left">
+  <img src="https://github-readme-stats-iota-self-67.vercel.app/api/top-langs/?username=mohamedmakki&layout=compact" alt="Most Used Languages" />
 </p>
-
-
----
 
 ## What I Do
 
