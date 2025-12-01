@@ -43,7 +43,7 @@
 
 ## 📊 Most Used Languages
 <p align="center"> 
- <img src="https://github-readme-stats-git-master-mohamedmakkis-projects.vercel.app/api?username=mohamedmakki&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+ <img src="github-readme-stats-iota-self-67.vercel.app/api/top-langs/?username=mohamedmakki&layout=compact" />
 </p>
 
 
