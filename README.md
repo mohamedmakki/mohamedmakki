@@ -80,7 +80,7 @@
 </p> -->
 
 <p align="center">
-  <a href="mailto:elmekkimohamed77@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=elmekkimohamed77@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohamedmekki-/">
