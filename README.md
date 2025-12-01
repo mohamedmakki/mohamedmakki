@@ -32,7 +32,7 @@
 ## Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,java,spring,nextjs,angular,html,css,tailwind,mongodb,postgres,tensorflow,sklearn,git,vscode,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,java,spring,nextjs,angular,html,css,tailwind,mongodb,postgres,tensorflow,sklearn,git,vscode,postman&perline=10" />
 </p>
 
 **Languages:** JavaScript • TypeScript • C++ • Python • Java  
