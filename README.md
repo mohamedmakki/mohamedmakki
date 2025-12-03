@@ -41,7 +41,7 @@
 **Database:** MongoDB • PostgreSQL  
 **ML/AI:** TensorFlow • Scikit-learn • Pandas • NumPy
 <p align="left">
-  <img src="https://github-readme-stats-git-master-mohamedmakkis-projects.vercel.app/api/top-langs/?username=mohamedmakki&layout=compact&cache_seconds=0" alt="Most Used Languages" />
+  <img src="github-readme-stats-mohamedmakkis-projects.vercel.app/api/top-langs/?username=mohamedmakki&layout=compact&cache_seconds=0" alt="Most Used Languages" />
 </p>
 
 ## What I Do
