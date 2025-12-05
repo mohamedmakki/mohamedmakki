@@ -68,7 +68,7 @@
 
 ---
 
-## 🔗 Connect & Compete
+## Connect
 
 <!-- <p align="center">
   <a href="https://codeforces.com/profile/">
